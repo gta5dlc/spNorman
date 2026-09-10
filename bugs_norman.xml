@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PerUserData>
+  <User username="Affmal" name="Affmal" aClass="0" todos="1" bClass="0" tasks="0" cClass="0" dClass="0">
+    <WithYouForMoreInfo/>
+    <WithOthersForMoreInfo/>
+    <DevBugs>
+      <Bug id="1" dueDate="0000-00-00" overMonth="false" tags="" class="TODO" summary="Add Chimps Peyote" qaOwner="AFFMAL" createdAt="2026-09-09 15:59:40">
+        <description>TODO  ADD CHIMPS</description>
+        <status>ouvert</status>
+        <position x="-947.38" y="4733.97" z="280.12"/>
+      </Bug>
+      <Bug id="2" dueDate="0000-00-00" overMonth="false" tags="" class="BUG" summary="Add Chimps Peyote" qaOwner="" createdAt="2026-09-09 16:00:30">
+        <description>TODO</description>
+        <status>ouvert</status>
+        <position x="-930.24" y="4721.60" z="281.64"/>
+      </Bug>
+      <Bug id="3" dueDate="0000-00-00" overMonth="false" tags="" class="BUG" summary="Tracey script don't launch sometime" qaOwner="affmal" createdAt="2026-09-09 16:02:18">
+        <description>Fix</description>
+        <status>ouvert</status>
+        <position x="-206.12" y="-2044.97" z="27.62"/>
+      </Bug>
+    </DevBugs>
+    <BugSummary grandTotal="3" totalA="0" totalTodo="1" totalB="0" totalTask="0" totalC="0" totalD="0" totalWish="0"/>
+  </User>
+</PerUserData>
