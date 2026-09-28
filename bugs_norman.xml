@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PerUserData>
-  <User username="Affmal" name="Affmal" aClass="0" todos="2" bClass="0" tasks="0" cClass="0" dClass="0">
+  <User username="Affmal" name="Affmal" aClass="0" todos="3" bClass="0" tasks="0" cClass="0" dClass="0">
     <WithYouForMoreInfo/>
     <WithOthersForMoreInfo/>
     <DevBugs>
@@ -24,7 +24,17 @@
         <status>ouvert</status>
         <position x="-1510.69" y="140.54" z="55.65"/>
       </Bug>
+      <Bug id="5" dueDate="0000-00-00" overMonth="false" tags="" class="TODO" summary="ADD More Player Switch For Norman DLC" qaOwner="affmal" createdAt="2026-09-28 03:39:24">
+        <description>Norman Switch for Tracey</description>
+        <status>ouvert</status>
+        <position x="1597.77" y="-1109.15" z="166.70"/>
+      </Bug>
+      <Bug id="6" dueDate="0000-00-00" overMonth="false" tags="" class="BUG" summary="Bug switch DLC" qaOwner="Affmal" createdAt="2026-09-28 03:39:53">
+        <description>Norman Switch for Tracey with army ped is under her foot</description>
+        <status>ouvert</status>
+        <position x="1165.44" y="-1240.93" z="162.96"/>
+      </Bug>
     </DevBugs>
-    <BugSummary grandTotal="4" totalA="0" totalTodo="2" totalB="0" totalTask="0" totalC="0" totalD="0" totalWish="0"/>
+    <BugSummary grandTotal="6" totalA="0" totalTodo="3" totalB="0" totalTask="0" totalC="0" totalD="0" totalWish="0"/>
   </User>
 </PerUserData>
